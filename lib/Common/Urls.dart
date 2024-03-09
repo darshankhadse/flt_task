@@ -1,0 +1,2 @@
+String precipitationUrl = "https://tile.openweathermap.org/map/precipitation_new/0/0/0.png?appid=aef721754e232c693d92f12559c0dcfb";
+String tempUrl = "https://tile.openweathermap.org/map/temp_new/0/0/0.png?appid=aef721754e232c693d92f12559c0dcfb";
